@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D50C24224F5FED500B317C0 /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D50C24124F5FED500B317C0 /* iPad.storyboard */; };
 		8D9147A124D8559C00DB1CF7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D9147A024D8559C00DB1CF7 /* AppDelegate.swift */; };
 		8D9147A324D8559C00DB1CF7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D9147A224D8559C00DB1CF7 /* SceneDelegate.swift */; };
 		8D9147A524D8559C00DB1CF7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D9147A424D8559C00DB1CF7 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8D50C24124F5FED500B317C0 /* iPad.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = iPad.storyboard; sourceTree = "<group>"; };
 		8D91479D24D8559C00DB1CF7 /* Swift5MD01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift5MD01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D9147A024D8559C00DB1CF7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D9147A224D8559C00DB1CF7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				8D9147A424D8559C00DB1CF7 /* ViewController.swift */,
 				8D9147A624D8559C00DB1CF7 /* Main.storyboard */,
 				8D9147B824D85C7800DB1CF7 /* iPhone11pro.storyboard */,
+				8D50C24124F5FED500B317C0 /* iPad.storyboard */,
 				8D9147A924D8559F00DB1CF7 /* Assets.xcassets */,
 				8D9147AB24D8559F00DB1CF7 /* LaunchScreen.storyboard */,
 				8D9147AE24D8559F00DB1CF7 /* Info.plist */,
@@ -131,6 +134,7 @@
 				8D9147AD24D8559F00DB1CF7 /* LaunchScreen.storyboard in Resources */,
 				8D9147AA24D8559F00DB1CF7 /* Assets.xcassets in Resources */,
 				8D9147A824D8559C00DB1CF7 /* Main.storyboard in Resources */,
+				8D50C24224F5FED500B317C0 /* iPad.storyboard in Resources */,
 				8D9147B924D85C7800DB1CF7 /* iPhone11pro.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
